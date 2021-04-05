@@ -131,6 +131,6 @@ dmypy.json
 # Custom
 */__pycache__/
 test.py
-/website/*html
-.vscode
+*/*html
+.vscode/
 .DS_Store
